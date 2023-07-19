@@ -1,2 +1,3 @@
-# Meu mundo
- Primeiro repositorio de git e gihub
+# Meu Mundo
+ Primeiro repositório de git e gihub
+Repositório criado durante um curso 
